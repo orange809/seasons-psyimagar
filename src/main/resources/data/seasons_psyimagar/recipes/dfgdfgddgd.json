@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "seasons_psyimagar:bingshuangzhiding"
+    },
+    "3": {
+      "item": "seasons_psyimagar:bingshuangzhiding"
+    },
+    "4": {
+      "item": "seasons_psyimagar:bingshuangzhiding"
+    },
+    "5": {
+      "item": "seasons_psyimagar:bingshuangzhiding"
+    },
+    "7": {
+      "item": "seasons_psyimagar:bingshuangzhiding"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:bingshuangbaoshi",
+    "count": 1
+  }
+}

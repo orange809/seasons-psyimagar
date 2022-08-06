@@ -1,0 +1,7 @@
+{
+  "parent": "seasons_psyimagar:custom/judutiechui",
+  "textures": {
+    "0": "seasons_psyimagar:blocks/judutiechui",
+    "particle": "seasons_psyimagar:items/judutiechui"
+  }
+}

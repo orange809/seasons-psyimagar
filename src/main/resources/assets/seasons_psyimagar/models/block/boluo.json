@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "seasons_psyimagar:blocks/bo_luo_",
+    "particle": "seasons_psyimagar:blocks/bo_luo_"
+  }
+}

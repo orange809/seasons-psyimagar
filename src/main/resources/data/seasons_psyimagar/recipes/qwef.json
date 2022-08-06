@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:mi"
+    },
+    "1": {
+      "item": "seasons_psyimagar:mi"
+    },
+    "2": {
+      "item": "seasons_psyimagar:mi"
+    },
+    "3": {
+      "item": "seasons_psyimagar:mi"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    },
+    "5": {
+      "item": "seasons_psyimagar:mi"
+    },
+    "6": {
+      "item": "seasons_psyimagar:mi"
+    },
+    "7": {
+      "item": "seasons_psyimagar:mi"
+    },
+    "8": {
+      "item": "seasons_psyimagar:mi"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:mifan",
+    "count": 1
+  }
+}

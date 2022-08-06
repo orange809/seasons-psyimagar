@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:zhirezhishi"
+    },
+    "2": {
+      "item": "seasons_psyimagar:zhirezhishi"
+    },
+    "3": {
+      "item": "seasons_psyimagar:zhirezhishi"
+    },
+    "5": {
+      "item": "seasons_psyimagar:zhirezhishi"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:zhirexingzhe_boots",
+    "count": 1
+  }
+}

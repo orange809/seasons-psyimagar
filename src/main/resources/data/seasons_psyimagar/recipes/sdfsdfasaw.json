@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yunduofangkuai"
+    },
+    "1": {
+      "item": "seasons_psyimagar:yunduofangkuai"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yunduofangkuai"
+    },
+    "3": {
+      "item": "seasons_psyimagar:fengzhiyuansu"
+    },
+    "5": {
+      "item": "seasons_psyimagar:fengzhiyuansu"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:fengzhijia_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "seasons_psyimagar:blocks/bing_shuang_guo_",
+    "particle": "seasons_psyimagar:blocks/bing_shuang_guo_"
+  }
+}

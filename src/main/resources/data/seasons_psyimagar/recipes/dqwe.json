@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "seasons_psyimagar:cuaixinkuang"
+    }
+  ],
+  "result": {
+    "item": "seasons_psyimagar:cuaixinshi",
+    "count": 9
+  }
+}

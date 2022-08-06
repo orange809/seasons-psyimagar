@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "1": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "4": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "5": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "6": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "7": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    },
+    "8": {
+      "item": "seasons_psyimagar:yingguangyuansu"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:yingguangding",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "seasons_psyimagar:blocks/lu_wei_down",
+    "particle": "seasons_psyimagar:blocks/lu_wei_down"
+  }
+}

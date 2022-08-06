@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "1": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "2": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "3": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "5": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "6": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "8": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:aixin_leggings",
+    "count": 1
+  }
+}

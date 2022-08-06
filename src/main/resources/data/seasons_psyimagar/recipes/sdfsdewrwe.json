@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:faguangmogu"
+    },
+    "1": {
+      "item": "seasons_psyimagar:faguangmogu"
+    },
+    "2": {
+      "item": "seasons_psyimagar:faguangmogu"
+    },
+    "3": {
+      "item": "seasons_psyimagar:faguangmogu"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    },
+    "5": {
+      "item": "seasons_psyimagar:faguangmogu"
+    },
+    "6": {
+      "item": "seasons_psyimagar:faguangmogu"
+    },
+    "7": {
+      "item": "seasons_psyimagar:faguangmogu"
+    },
+    "8": {
+      "item": "seasons_psyimagar:faguangmogu"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:yingguangmogutang",
+    "count": 1
+  }
+}

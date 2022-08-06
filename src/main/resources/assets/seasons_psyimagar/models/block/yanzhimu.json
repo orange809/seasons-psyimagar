@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seasons_psyimagar:blocks/fire_log_top",
+    "up": "seasons_psyimagar:blocks/fire_log_top",
+    "north": "seasons_psyimagar:blocks/fire_log",
+    "east": "seasons_psyimagar:blocks/fire_log",
+    "south": "seasons_psyimagar:blocks/fire_log",
+    "west": "seasons_psyimagar:blocks/fire_log",
+    "particle": "seasons_psyimagar:blocks/fire_log_top"
+  }
+}

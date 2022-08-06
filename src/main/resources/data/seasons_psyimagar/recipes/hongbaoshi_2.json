@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 3,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "seasons_psyimagar:fensebaoshi"
+  },
+  "result": {
+    "item": "seasons_psyimagar:hongbaoshi"
+  }
+}

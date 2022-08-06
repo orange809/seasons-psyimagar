@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "4": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "6": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "7": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "8": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:yanzhilouti",
+    "count": 4
+  }
+}

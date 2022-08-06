@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "seasons_psyimagar:blocks/winter_planks",
+    "top": "seasons_psyimagar:blocks/winter_planks",
+    "side": "seasons_psyimagar:blocks/winter_planks"
+  }
+}

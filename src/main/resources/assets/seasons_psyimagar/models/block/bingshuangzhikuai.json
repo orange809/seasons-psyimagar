@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seasons_psyimagar:blocks/abab",
+    "up": "seasons_psyimagar:blocks/abab",
+    "north": "seasons_psyimagar:blocks/abab",
+    "east": "seasons_psyimagar:blocks/abab",
+    "south": "seasons_psyimagar:blocks/abab",
+    "west": "seasons_psyimagar:blocks/abab",
+    "particle": "seasons_psyimagar:blocks/abab"
+  }
+}

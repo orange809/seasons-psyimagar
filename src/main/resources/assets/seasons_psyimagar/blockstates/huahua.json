@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "seasons_psyimagar:block/huahua"
+    },
+    "half=lower": {
+      "model": "seasons_psyimagar:block/huahua_bottom"
+    }
+  }
+}

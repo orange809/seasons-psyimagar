@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "seasons_psyimagar:cubingshuangshi"
+  },
+  "result": {
+    "item": "seasons_psyimagar:bingshuangzhiding"
+  }
+}

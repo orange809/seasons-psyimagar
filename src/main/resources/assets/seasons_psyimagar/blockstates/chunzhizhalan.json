@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "seasons_psyimagar:block/chunzhizhalan_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "seasons_psyimagar:block/chunzhizhalan",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "seasons_psyimagar:block/chunzhizhalan",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "seasons_psyimagar:block/chunzhizhalan",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "seasons_psyimagar:block/chunzhizhalan",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

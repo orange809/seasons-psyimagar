@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:bingshuangzhiding"
+    },
+    "1": {
+      "item": "seasons_psyimagar:bingshuangzhiding"
+    },
+    "2": {
+      "item": "seasons_psyimagar:bingshuangmugun"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:deleted_mod_element",
+    "count": 1
+  }
+}

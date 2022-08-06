@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "seasons_psyimagar:blocks/winter_trapdoor",
+    "particle": "seasons_psyimagar:blocks/winter_trapdoor"
+  }
+}

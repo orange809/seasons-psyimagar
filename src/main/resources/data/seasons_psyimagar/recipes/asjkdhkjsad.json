@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "1": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "4": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "5": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "6": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "7": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    },
+    "8": {
+      "item": "seasons_psyimagar:yingzhicailiao"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:shenshengxiangnag",
+    "count": 1
+  }
+}

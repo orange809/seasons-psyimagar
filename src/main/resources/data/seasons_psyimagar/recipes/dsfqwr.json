@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "seasons_psyimagar:leimingzhikuai"
+    },
+    "4": {
+      "item": "seasons_psyimagar:fengzhimugun"
+    },
+    "6": {
+      "item": "seasons_psyimagar:fengzhimugun"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:leiingfazhang",
+    "count": 1
+  }
+}

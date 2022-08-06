@@ -1,0 +1,9 @@
+{
+  "parent": "seasons_psyimagar:custom/block_bingshuangshouhuzhe",
+  "textures": {
+    "all": "seasons_psyimagar:blocks/bingshuangshouhuzhe",
+    "particle": "seasons_psyimagar:blocks/bingshuangshouhuzhe",
+    "0": "seasons_psyimagar:blocks/bingshuangshouhuzhe",
+    "1": "seasons_psyimagar:blocks/dongyu"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "seasons_psyimagar:blocks/qiuzhimuban",
+    "particle": "seasons_psyimagar:blocks/qiuzhimuban"
+  }
+}

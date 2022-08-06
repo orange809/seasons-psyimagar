@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "seasons_psyimagar:block/bingshuangjitan"
+    },
+    "facing=east": {
+      "model": "seasons_psyimagar:block/bingshuangjitan",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "seasons_psyimagar:block/bingshuangjitan",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "seasons_psyimagar:block/bingshuangjitan",
+      "y": 270
+    }
+  }
+}

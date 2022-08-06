@@ -1,0 +1,9 @@
+{
+  "parent": "seasons_psyimagar:custom/dai_xue_da_shi_tou_",
+  "textures": {
+    "all": "seasons_psyimagar:blocks/daixued",
+    "particle": "seasons_psyimagar:blocks/daixued",
+    "0": "seasons_psyimagar:blocks/daixued",
+    "1": "seasons_psyimagar:blocks/dong_ji_cao_fang_kuai_"
+  }
+}

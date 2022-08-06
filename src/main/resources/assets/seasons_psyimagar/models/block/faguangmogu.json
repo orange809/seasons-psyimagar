@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "seasons_psyimagar:blocks/ying_guang_mo_gu_wu_pin_",
+    "particle": "seasons_psyimagar:blocks/ying_guang_mo_gu_wu_pin_"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seasons_psyimagar:blocks/shaojiaodeguoshi2",
+    "up": "seasons_psyimagar:blocks/shaojiaodeguoshi2",
+    "north": "seasons_psyimagar:blocks/shaojiaodeguoshi",
+    "east": "seasons_psyimagar:blocks/shaojiaodeguoshi",
+    "south": "seasons_psyimagar:blocks/shaojiaodeguoshi",
+    "west": "seasons_psyimagar:blocks/shaojiaodeguoshi",
+    "particle": "seasons_psyimagar:blocks/shaojiaodeguoshi2"
+  }
+}

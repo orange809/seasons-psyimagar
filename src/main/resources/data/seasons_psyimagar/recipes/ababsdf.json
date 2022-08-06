@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:wuyunsuipian"
+    },
+    "1": {
+      "item": "seasons_psyimagar:wuyunsuipian"
+    },
+    "2": {
+      "item": "seasons_psyimagar:wuyunsuipian"
+    },
+    "3": {
+      "item": "seasons_psyimagar:wuyunsuipian"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:wuyunkuai",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "seasons_psyimagar:blocks/ran_kuai_3",
+    "particle": "seasons_psyimagar:blocks/ran_kuai_3"
+  }
+}

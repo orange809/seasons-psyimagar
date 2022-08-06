@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "1": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "2": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "3": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "4": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "5": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "6": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "7": {
+      "item": "seasons_psyimagar:huijin"
+    },
+    "8": {
+      "item": "seasons_psyimagar:huijin"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:xiazhidifangkuai",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:dongzhimuban"
+    },
+    "1": {
+      "item": "seasons_psyimagar:dongzhimuban"
+    },
+    "2": {
+      "item": "seasons_psyimagar:dongzhimuban"
+    },
+    "3": {
+      "item": "seasons_psyimagar:dongzhimuban"
+    },
+    "4": {
+      "item": "seasons_psyimagar:dongzhimuban"
+    },
+    "5": {
+      "item": "seasons_psyimagar:dongzhimuban"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:dongzhimen",
+    "count": 1
+  }
+}

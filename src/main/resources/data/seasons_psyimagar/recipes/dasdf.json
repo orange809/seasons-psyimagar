@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "1": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "2": {
+      "item": "seasons_psyimagar:chunzhigun"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:aixinzhijian",
+    "count": 1
+  }
+}

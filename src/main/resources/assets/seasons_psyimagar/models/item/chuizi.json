@@ -1,0 +1,7 @@
+{
+  "parent": "seasons_psyimagar:custom/chuizi",
+  "textures": {
+    "0": "seasons_psyimagar:blocks/5",
+    "particle": "seasons_psyimagar:items/chuizi"
+  }
+}

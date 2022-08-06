@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yunduofangkuai"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yunduofangkuai"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yunduofangkuai"
+    },
+    "5": {
+      "item": "seasons_psyimagar:yunduofangkuai"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:xuezi_boots",
+    "count": 1
+  }
+}

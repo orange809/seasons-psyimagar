@@ -1,0 +1,9 @@
+{
+  "parent": "seasons_psyimagar:custom/songguodong",
+  "textures": {
+    "all": "seasons_psyimagar:blocks/songguodong",
+    "particle": "seasons_psyimagar:blocks/songguodong",
+    "0": "seasons_psyimagar:blocks/songguodong",
+    "missing": "seasons_psyimagar:blocks/songguodong"
+  }
+}

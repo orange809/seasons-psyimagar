@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yezhuyachi"
+    },
+    "1": {
+      "item": "seasons_psyimagar:yezhuyachi"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yezhuyachi"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yezhuyachi"
+    },
+    "4": {
+      "item": "seasons_psyimagar:yezhuyachi"
+    },
+    "5": {
+      "item": "seasons_psyimagar:yezhuyachi"
+    },
+    "7": {
+      "item": "seasons_psyimagar:chunzhigun"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:chijian",
+    "count": 1
+  }
+}

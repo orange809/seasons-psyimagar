@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "seasons_psyimagar:block/yingzhibanzhuan"
+    },
+    "type=top": {
+      "model": "seasons_psyimagar:block/yingzhibanzhuan_top"
+    },
+    "type=double": {
+      "model": "seasons_psyimagar:block/yingzhibanzhuan_full"
+    }
+  }
+}

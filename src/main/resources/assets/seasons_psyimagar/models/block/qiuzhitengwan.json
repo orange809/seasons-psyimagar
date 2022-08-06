@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "seasons_psyimagar:blocks/qiu_zhi_man_",
+    "particle": "seasons_psyimagar:blocks/qiu_zhi_man_"
+  }
+}

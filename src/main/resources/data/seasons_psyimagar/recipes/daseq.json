@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "seasons_psyimagar:yanzhimu"
+    }
+  ],
+  "result": {
+    "item": "seasons_psyimagar:yanzhimuban",
+    "count": 6
+  }
+}

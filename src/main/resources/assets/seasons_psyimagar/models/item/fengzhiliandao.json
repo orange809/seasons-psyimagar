@@ -1,0 +1,7 @@
+{
+  "parent": "seasons_psyimagar:custom/qiuzhiliandao12",
+  "textures": {
+    "0": "seasons_psyimagar:blocks/qiuzhilianlian",
+    "particle": "seasons_psyimagar:items/lian_dao_"
+  }
+}

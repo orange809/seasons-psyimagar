@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "1": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "2": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "3": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "4": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "5": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "6": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "7": {
+      "item": "seasons_psyimagar:zhirezhili"
+    },
+    "8": {
+      "item": "seasons_psyimagar:zhirezhili"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:zhirezhishi",
+    "count": 1
+  }
+}

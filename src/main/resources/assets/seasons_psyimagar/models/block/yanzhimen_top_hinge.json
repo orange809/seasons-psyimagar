@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "seasons_psyimagar:blocks/fire_door_bottom",
+    "top": "seasons_psyimagar:blocks/fire_door_bottom"
+  }
+}

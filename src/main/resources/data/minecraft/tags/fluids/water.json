@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "seasons_psyimagar:molten_frost",
+    "seasons_psyimagar:molten_frost_flowing",
+    "seasons_psyimagar:liquid_glow",
+    "seasons_psyimagar:liquid_glow_flowing",
+    "seasons_psyimagar:liquid_xp",
+    "seasons_psyimagar:liquid_xp_flowing",
+    "seasons_psyimagar:molten_loving",
+    "seasons_psyimagar:molten_loving_flowing",
+    "seasons_psyimagar:molten_wind",
+    "seasons_psyimagar:molten_wind_flowing",
+    "seasons_psyimagar:diaolingjianghutong",
+    "seasons_psyimagar:diaolingjianghutong_flowing"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seasons_psyimagar:blocks/sijizhini",
+    "up": "seasons_psyimagar:blocks/ying_hua_cao_fang_kuai_",
+    "north": "seasons_psyimagar:blocks/ying_hua_cao_fang_kuai_ce_mian_",
+    "east": "seasons_psyimagar:blocks/ying_hua_cao_fang_kuai_ce_mian_",
+    "south": "seasons_psyimagar:blocks/ying_hua_cao_fang_kuai_ce_mian_",
+    "west": "seasons_psyimagar:blocks/ying_hua_cao_fang_kuai_ce_mian_",
+    "particle": "seasons_psyimagar:blocks/sijizhini"
+  }
+}

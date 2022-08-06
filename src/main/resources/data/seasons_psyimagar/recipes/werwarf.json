@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "1": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "2": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "3": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "4": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "5": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "6": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "7": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    },
+    "8": {
+      "item": "seasons_psyimagar:cubingshuangshi"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:cubingshuangkuai",
+    "count": 1
+  }
+}

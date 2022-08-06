@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "seasons_psyimagar:yunnaitong"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yunnaitong"
+    },
+    "4": {
+      "item": "seasons_psyimagar:aixinzhiding"
+    },
+    "5": {
+      "item": "seasons_psyimagar:yunnaitong"
+    },
+    "7": {
+      "item": "seasons_psyimagar:yunnaitong"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:yunnaiding",
+    "count": 1
+  }
+}

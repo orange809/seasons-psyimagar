@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "1": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "2": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "3": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "4": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "5": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "6": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "7": {
+      "item": "seasons_psyimagar:shizi"
+    },
+    "8": {
+      "item": "seasons_psyimagar:shizi"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

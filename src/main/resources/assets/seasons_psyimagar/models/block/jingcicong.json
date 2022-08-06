@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "seasons_psyimagar:blocks/jing_ji_ci_er_lian_jie_",
+    "particle": "seasons_psyimagar:blocks/jing_ji_ci_er_lian_jie_"
+  }
+}

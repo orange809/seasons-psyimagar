@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "seasons_psyimagar:yanzhimuban"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:yanzhizhalan",
+    "count": 3
+  }
+}

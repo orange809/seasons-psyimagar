@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "seasons_psyimagar:block/luwei"
+    },
+    "half=lower": {
+      "model": "seasons_psyimagar:block/luwei_bottom"
+    }
+  }
+}

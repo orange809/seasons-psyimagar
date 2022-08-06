@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "seasons_psyimagar:block/nangua"
+    },
+    "facing=east": {
+      "model": "seasons_psyimagar:block/nangua",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "seasons_psyimagar:block/nangua",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "seasons_psyimagar:block/nangua",
+      "y": 270
+    }
+  }
+}

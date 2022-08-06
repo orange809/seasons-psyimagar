@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "seasons_psyimagar:shuidao_1"
+    }
+  ],
+  "result": {
+    "item": "seasons_psyimagar:mi",
+    "count": 1
+  }
+}

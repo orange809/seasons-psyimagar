@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "1": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "2": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "3": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "4": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "5": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "6": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "7": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    },
+    "8": {
+      "item": "seasons_psyimagar:qian_hai_hua_ban"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:qian_hai_hua_quan_helmet",
+    "count": 1
+  }
+}

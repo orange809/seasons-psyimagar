@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "seasons_psyimagar:block/yanzhimu",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "seasons_psyimagar:block/yanzhimu"
+    },
+    "axis=z": {
+      "model": "seasons_psyimagar:block/yanzhimu",
+      "x": 90
+    }
+  }
+}

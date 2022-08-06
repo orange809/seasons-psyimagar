@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seasons_psyimagar:blocks/zhireyan",
+    "up": "seasons_psyimagar:blocks/xiazhicaofangkuai",
+    "north": "seasons_psyimagar:blocks/xiazhicaofangkuai1",
+    "east": "seasons_psyimagar:blocks/xiazhicaofangkuai1",
+    "south": "seasons_psyimagar:blocks/xiazhicaofangkuai1",
+    "west": "seasons_psyimagar:blocks/xiazhicaofangkuai1",
+    "particle": "seasons_psyimagar:blocks/zhireyan"
+  }
+}

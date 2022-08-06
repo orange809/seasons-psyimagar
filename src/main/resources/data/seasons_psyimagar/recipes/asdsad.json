@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:mtou"
+    },
+    "3": {
+      "item": "seasons_psyimagar:mtou"
+    },
+    "4": {
+      "item": "seasons_psyimagar:mtou"
+    },
+    "6": {
+      "item": "seasons_psyimagar:mtou"
+    },
+    "7": {
+      "item": "seasons_psyimagar:mtou"
+    },
+    "8": {
+      "item": "seasons_psyimagar:mtou"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:chunzhilouti",
+    "count": 4
+  }
+}

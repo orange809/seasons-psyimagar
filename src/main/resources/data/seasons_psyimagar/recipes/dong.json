@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "seasons_psyimagar:qiqyumao"
+    },
+    "2": {
+      "item": "seasons_psyimagar:qiqyumao"
+    },
+    "3": {
+      "item": "seasons_psyimagar:qiqyumao"
+    },
+    "4": {
+      "item": "seasons_psyimagar:zongseyumao"
+    },
+    "5": {
+      "item": "seasons_psyimagar:qiqyumao"
+    },
+    "6": {
+      "item": "seasons_psyimagar:qiqyumao"
+    },
+    "7": {
+      "item": "seasons_psyimagar:qiqyumao"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:dongzhiyumao",
+    "count": 1
+  }
+}

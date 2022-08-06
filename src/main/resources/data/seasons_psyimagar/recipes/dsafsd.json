@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:qiuzhimuban"
+    },
+    "3": {
+      "item": "seasons_psyimagar:qiuzhimuban"
+    },
+    "4": {
+      "item": "seasons_psyimagar:qiuzhimuban"
+    },
+    "6": {
+      "item": "seasons_psyimagar:qiuzhimuban"
+    },
+    "7": {
+      "item": "seasons_psyimagar:qiuzhimuban"
+    },
+    "8": {
+      "item": "seasons_psyimagar:qiuzhimuban"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:qiuzhilouti",
+    "count": 4
+  }
+}

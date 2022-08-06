@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:deleted_mod_element"
+    },
+    "1": {
+      "item": "seasons_psyimagar:deleted_mod_element"
+    },
+    "2": {
+      "item": "seasons_psyimagar:deleted_mod_element"
+    },
+    "3": {
+      "item": "seasons_psyimagar:deleted_mod_element"
+    },
+    "4": {
+      "item": "seasons_psyimagar:deleted_mod_element"
+    },
+    "5": {
+      "item": "seasons_psyimagar:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:deleted_mod_element",
+    "count": 1
+  }
+}

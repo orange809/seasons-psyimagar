@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "seasons_psyimagar:blocks/fire_door_bottom",
+    "particle": "seasons_psyimagar:blocks/fire_door_bottom"
+  }
+}

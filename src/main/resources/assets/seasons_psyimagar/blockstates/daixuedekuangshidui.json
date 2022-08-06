@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "seasons_psyimagar:block/daixuedekuangshidui"
+    },
+    "facing=east": {
+      "model": "seasons_psyimagar:block/daixuedekuangshidui",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "seasons_psyimagar:block/daixuedekuangshidui",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "seasons_psyimagar:block/daixuedekuangshidui",
+      "y": 270
+    }
+  }
+}

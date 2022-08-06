@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "seasons_psyimagar:blocks/chun_ji_mu_ban_",
+    "particle": "seasons_psyimagar:blocks/chun_ji_mu_ban_"
+  }
+}

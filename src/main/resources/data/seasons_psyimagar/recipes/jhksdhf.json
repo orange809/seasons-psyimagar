@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:zongye"
+    },
+    "1": {
+      "item": "seasons_psyimagar:zongye"
+    },
+    "2": {
+      "item": "seasons_psyimagar:zongye"
+    }
+  },
+  "result": {
+    "item": "minecraft:paper",
+    "count": 3
+  }
+}

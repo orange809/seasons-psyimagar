@@ -1,0 +1,8 @@
+{
+  "parent": "seasons_psyimagar:custom/lizhi",
+  "textures": {
+    "all": "seasons_psyimagar:blocks/li_zhi_",
+    "particle": "seasons_psyimagar:blocks/li_zhi_",
+    "0": "seasons_psyimagar:blocks/li_zhi_"
+  }
+}

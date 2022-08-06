@@ -1,0 +1,10 @@
+{
+  "parent": "seasons_psyimagar:custom/bing_fa_zhang_",
+  "textures": {
+    "0": "seasons_psyimagar:blocks/bing_1",
+    "1": "seasons_psyimagar:blocks/bing_2",
+    "2": "seasons_psyimagar:blocks/bing_3",
+    "3": "seasons_psyimagar:blocks/all2",
+    "particle": "seasons_psyimagar:items/bingshuangfazhang"
+  }
+}

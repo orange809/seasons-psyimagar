@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "seasons_psyimagar:blocks/shui_dao_1_-_fu_ben_",
+    "particle": "seasons_psyimagar:blocks/shui_dao_1_-_fu_ben_"
+  }
+}

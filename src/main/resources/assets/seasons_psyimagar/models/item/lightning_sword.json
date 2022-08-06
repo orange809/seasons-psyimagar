@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "seasons_psyimagar:items/lei_ming_zhi_jian_"
+  }
+}

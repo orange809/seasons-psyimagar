@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yanzhisuipian"
+    },
+    "1": {
+      "item": "seasons_psyimagar:yanzhisuipian"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yanzhisuipian"
+    },
+    "3": {
+      "item": "seasons_psyimagar:zhirezhishi"
+    },
+    "4": {
+      "item": "seasons_psyimagar:zhirezhishi"
+    },
+    "5": {
+      "item": "seasons_psyimagar:zhirezhishi"
+    },
+    "6": {
+      "item": "seasons_psyimagar:yanzhisuipian"
+    },
+    "7": {
+      "item": "seasons_psyimagar:yanzhisuipian"
+    },
+    "8": {
+      "item": "seasons_psyimagar:yanzhisuipian"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:huoyanhuaquan_helmet",
+    "count": 1
+  }
+}

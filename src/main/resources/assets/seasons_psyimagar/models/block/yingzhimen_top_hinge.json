@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "seasons_psyimagar:blocks/yingzhimen1",
+    "top": "seasons_psyimagar:blocks/yingzhimen"
+  }
+}

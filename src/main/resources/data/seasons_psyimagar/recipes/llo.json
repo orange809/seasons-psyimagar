@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:bluetree"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:dongzhimuban",
+    "count": 8
+  }
+}

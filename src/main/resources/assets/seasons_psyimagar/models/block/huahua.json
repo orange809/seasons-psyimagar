@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "seasons_psyimagar:blocks/tengwan",
+    "particle": "seasons_psyimagar:blocks/tengwan"
+  }
+}

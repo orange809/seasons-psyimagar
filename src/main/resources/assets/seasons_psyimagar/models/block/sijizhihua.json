@@ -1,0 +1,9 @@
+{
+  "parent": "seasons_psyimagar:custom/sijizhihua",
+  "textures": {
+    "all": "seasons_psyimagar:blocks/sijizhihua",
+    "particle": "seasons_psyimagar:blocks/sijizhihua",
+    "0": "seasons_psyimagar:blocks/sijizhihua",
+    "missing": "seasons_psyimagar:blocks/sijizhihua"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seasons_psyimagar:blocks/nangua3",
+    "up": "seasons_psyimagar:blocks/nangua3",
+    "north": "seasons_psyimagar:blocks/nangua1",
+    "east": "seasons_psyimagar:blocks/nangua2",
+    "south": "seasons_psyimagar:blocks/nangua2",
+    "west": "seasons_psyimagar:blocks/nangua2",
+    "particle": "seasons_psyimagar:blocks/nangua3"
+  }
+}

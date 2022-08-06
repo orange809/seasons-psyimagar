@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "seasons_psyimagar:aixinzhikuai"
+    }
+  ],
+  "result": {
+    "item": "seasons_psyimagar:aixinzhiding",
+    "count": 9
+  }
+}

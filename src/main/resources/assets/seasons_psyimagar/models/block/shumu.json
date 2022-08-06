@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seasons_psyimagar:blocks/chun_ji_shu_gan_ding_",
+    "up": "seasons_psyimagar:blocks/chun_ji_shu_gan_ding_",
+    "north": "seasons_psyimagar:blocks/chun_ji_shu_pi_",
+    "east": "seasons_psyimagar:blocks/chun_ji_shu_pi_",
+    "south": "seasons_psyimagar:blocks/chun_ji_shu_pi_",
+    "west": "seasons_psyimagar:blocks/chun_ji_shu_pi_",
+    "particle": "seasons_psyimagar:blocks/chun_ji_shu_gan_ding_"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "2": {
+      "item": "seasons_psyimagar:chunzhigun"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:caidao",
+    "count": 1
+  }
+}

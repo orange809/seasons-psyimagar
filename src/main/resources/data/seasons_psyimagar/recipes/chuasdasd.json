@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:mtou"
+    },
+    "1": {
+      "item": "seasons_psyimagar:mtou"
+    },
+    "2": {
+      "item": "seasons_psyimagar:mtou"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:chunzhibanzhuan",
+    "count": 6
+  }
+}

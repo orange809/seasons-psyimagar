@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "seasons_psyimagar:blocks/qiuzhimuban",
+    "top": "seasons_psyimagar:blocks/qiuzhimuban",
+    "side": "seasons_psyimagar:blocks/qiuzhimuban"
+  }
+}

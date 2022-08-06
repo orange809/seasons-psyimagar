@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "seasons_psyimagar:items/guang_head"
+  }
+}

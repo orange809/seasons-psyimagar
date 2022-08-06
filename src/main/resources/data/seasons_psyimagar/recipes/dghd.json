@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "seasons_psyimagar:yingguangding"
+    },
+    "1": {
+      "item": "seasons_psyimagar:yingguangding"
+    },
+    "2": {
+      "item": "seasons_psyimagar:yingguangding"
+    },
+    "3": {
+      "item": "seasons_psyimagar:yingguangding"
+    },
+    "5": {
+      "item": "seasons_psyimagar:yingguangding"
+    }
+  },
+  "result": {
+    "item": "seasons_psyimagar:lingguangkuijia_helmet",
+    "count": 1
+  }
+}
